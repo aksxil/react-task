@@ -4,7 +4,7 @@ HackerKernel is a React web application for managing products. It allows users t
 
 ## Live Demo
 
-Check out the live demo of the HackerKernel application [here](https://reactjs-task-vjmx.onrender.com/).
+Check out the live demo of the HackerKernel application [here](https://react-task-7xq3.onrender.com/).
 
 ## Features
 
